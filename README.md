@@ -1,9 +1,9 @@
 # Integrated-project-2021
-Interactive Media Application
+Interactive Media Application (ECCOMERCE shopping APP )
 
 
 
-# Your Project's Name
+# SHOOP
 
 One or two paragraphs providing an overview of your project. Tell us about your project.
 
@@ -37,7 +37,7 @@ In addition, you may also use this section to discuss plans for additional featu
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
+- [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
     - The project uses **JQuery** to simplify DOM manipulation.
 
 
@@ -60,11 +60,12 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+-  [RAPIDAPI](https://rapidapi.com/yahoo.finance.low.latency/api/ebay-com)
 
 ### Media
 - The photos used in this site were obtained from ...
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration and guidiance from Ms Dai and very thankful for her idea and tips to help this project works
+
