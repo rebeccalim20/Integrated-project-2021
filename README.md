@@ -5,7 +5,7 @@ Interactive Media Application (ECCOMERCE shopping APP )
 
 # SHOOP
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
+The project is about the shopping app where user can browse through the app and view more and understand about fashion.
 
 Essentially, this part is your sales pitch.
  
@@ -60,8 +60,8 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Credits
 
 ### Content
--  [RapidApi Ebay](https://rapidapi.com/yahoo.finance.low.latency/api/ebay-com)
--  [Rapidapi ecommerce](https://rapidapi.com/kskanu2020/api/ecommerce-scraper/endpoints)
+-  [icons8](https://icons8.com/)
+
 
 
 ### Media
