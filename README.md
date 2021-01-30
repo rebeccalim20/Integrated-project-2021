@@ -60,8 +60,8 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Credits
 
 ### Content
--  [RAPIDAPI](https://rapidapi.com/yahoo.finance.low.latency/api/ebay-com)
--  [RAPIDAPI](https://rapidapi.com/kskanu2020/api/ecommerce-scraper/endpoints)
+-  [RapidApi Ebay](https://rapidapi.com/yahoo.finance.low.latency/api/ebay-com)
+-  [Rapidapi ecommerce](https://rapidapi.com/kskanu2020/api/ecommerce-scraper/endpoints)
 
 
 ### Media
