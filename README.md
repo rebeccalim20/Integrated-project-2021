@@ -61,6 +61,8 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Content
 -  [RAPIDAPI](https://rapidapi.com/yahoo.finance.low.latency/api/ebay-com)
+-  [RAPIDAPI](https://rapidapi.com/kskanu2020/api/ecommerce-scraper/endpoints)
+
 
 ### Media
 - The photos used in this site were obtained from ...
