@@ -1,0 +1,874 @@
+{
+    "totalProducts": "40267",
+    "category": "aps",
+    "result": [
+        {
+            "position": {
+                "page": 1,
+                "position": 1,
+                "global_position": 1
+            },
+            "asin": "B08HNRSJP9",
+            "price": {
+                "discounted": false,
+                "current_price": 0,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 7,
+                "rating": 4.8
+            },
+            "url": "https://www.amazon.sg/dp/B08HNRSJP9",
+            "score": "33.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Xbox Series S",
+            "thumbnail": "https://m.media-amazon.com/images/I/61Vv5FeZH2L._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 4,
+                "global_position": 4
+            },
+            "asin": "B08TM2TGMV",
+            "price": {
+                "discounted": false,
+                "current_price": 33.51,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 240,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.sg/dp/B08TM2TGMV",
+            "score": "1104.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "eXtremeRate Caution Yellow Replacement Front Housing Shell for Xbox Series X Controller, Soft Touch Custom Cover Faceplate...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51dugp2EVwL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 6,
+                "global_position": 6
+            },
+            "asin": "B073X47SG4",
+            "price": {
+                "discounted": false,
+                "current_price": 0,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 13,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.sg/dp/B073X47SG4",
+            "score": "59.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PDP 048-082-NA-BL Wired Controller for Xbox One, Xbox One X and Xbox One S, Midnight Blue",
+            "thumbnail": "https://m.media-amazon.com/images/I/71sP8+5LYCL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 7,
+                "global_position": 7
+            },
+            "asin": "B08THRF591",
+            "price": {
+                "discounted": false,
+                "current_price": 32.17,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 69,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.sg/dp/B08THRF591",
+            "score": "310.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "eXtremeRate Chrome Green Replacement Buttons for Xbox Series S & Xbox Series X Controller, LB RB LT RT Bumpers Triggers D-...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51E3iAvTElL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 9,
+                "global_position": 9
+            },
+            "asin": "B07DLSV9PB",
+            "price": {
+                "discounted": false,
+                "current_price": 19.16,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1,
+                "rating": 5
+            },
+            "url": "https://www.amazon.sg/dp/B07DLSV9PB",
+            "score": "5.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "FIFA 19 for Xbox One",
+            "thumbnail": "https://m.media-amazon.com/images/I/71KmxsXGWJL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 10,
+                "global_position": 10
+            },
+            "asin": "B08T6YFLLQ",
+            "price": {
+                "discounted": false,
+                "current_price": 17.42,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 101,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.sg/dp/B08T6YFLLQ",
+            "score": "474.70",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "2 Pack 10FT Charger Charging Cable for PS5 and Xbox Series X/S Controller/Switch Pro Controller, Replacement USB Charging ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71ubnDFo6UL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 11,
+                "global_position": 11
+            },
+            "asin": "B08T68DYBL",
+            "price": {
+                "discounted": false,
+                "current_price": 38.74,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 48,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.sg/dp/B08T68DYBL",
+            "score": "220.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "eXtremeRate Clear Atomic Purple Replacement Handles Shell for Xbox Series X Controller, Custom Side Rails Panels Front Hou...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71vmFtVD9qL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 13,
+                "global_position": 13
+            },
+            "asin": "B073X3L3W6",
+            "price": {
+                "discounted": false,
+                "current_price": 0,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 13,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.sg/dp/B073X3L3W6",
+            "score": "59.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PDP Wired Controller for Xbox One - Black - Xbox One",
+            "thumbnail": "https://m.media-amazon.com/images/I/61NmxksRG7L._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 14,
+                "global_position": 14
+            },
+            "asin": "B08LGWJ219",
+            "price": {
+                "discounted": false,
+                "current_price": 134.08,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1985,
+                "rating": 4.3
+            },
+            "url": "https://www.amazon.sg/dp/B08LGWJ219",
+            "score": "8535.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Racing Wheel Overdrive Designed for Xbox Series X|S By HORI - Officially Licensed by Microsoft",
+            "thumbnail": "https://m.media-amazon.com/images/I/61vCt5lcX0L._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 15,
+                "global_position": 15
+            },
+            "asin": "B01GOK34SO",
+            "price": {
+                "discounted": false,
+                "current_price": 26.81,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 2,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.sg/dp/B01GOK34SO",
+            "score": "9.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PDP 048-083-NA Talon Media Remote Control for Xbox One, TV, Blu-Ray & Streaming Media",
+            "thumbnail": "https://m.media-amazon.com/images/I/315Qbn6Jr8L._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 17,
+                "global_position": 17
+            },
+            "asin": "B089NZS6C6",
+            "price": {
+                "discounted": false,
+                "current_price": 13.4,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 118,
+                "rating": 3.6
+            },
+            "url": "https://www.amazon.sg/dp/B089NZS6C6",
+            "score": "424.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Aim Assist Precision Target Rings Motion Control for PS4, Xbox One and Switch Pro Controller Thumbsticks | 3 Different Str...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61bOdi-tbsL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 19,
+                "global_position": 19
+            },
+            "asin": "B07SYSW951",
+            "price": {
+                "discounted": false,
+                "current_price": 65.63,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 26,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.sg/dp/B07SYSW951",
+            "score": "119.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "JUST Dance 2020 - Xbox ONE",
+            "thumbnail": "https://m.media-amazon.com/images/I/71xIJkYYP-L._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 20,
+                "global_position": 20
+            },
+            "asin": "B08MPXX3FT",
+            "price": {
+                "discounted": false,
+                "current_price": 16.08,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 23,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.sg/dp/B08MPXX3FT",
+            "score": "101.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Xbox Series X/S Controller Silicone Cover Case, Rubber Skin for Xbox Series X/S Controller with Thumb Grips - Blue",
+            "thumbnail": "https://m.media-amazon.com/images/I/61bzD2KoswL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 21,
+                "global_position": 21
+            },
+            "asin": "B07BH458FQ",
+            "price": {
+                "discounted": false,
+                "current_price": 18.09,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 2301,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.sg/dp/B07BH458FQ",
+            "score": "10814.70",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "CAT-7 Ethernet Cable 40 Feet - High Speed Flat Internet Network Computer Patch Cord - Faster Than Cat6 Cat5e LAN Wire, Shi...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71n5oOU4IIL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 24,
+                "global_position": 24
+            },
+            "asin": "B07VPCSMC4",
+            "price": {
+                "discounted": false,
+                "current_price": 61.67,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 173,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.sg/dp/B07VPCSMC4",
+            "score": "709.30",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "CHONCHOW Gaming Keyboard (Keyboard and Mouse)",
+            "thumbnail": "https://m.media-amazon.com/images/I/81Q5XmFmG1L._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 25,
+                "global_position": 25
+            },
+            "asin": "B08G1FJBMX",
+            "price": {
+                "discounted": false,
+                "current_price": 93.85,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 69,
+                "rating": 4.8
+            },
+            "url": "https://www.amazon.sg/dp/B08G1FJBMX",
+            "score": "331.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "CURMIO Travel Carrying Case Compatible with Xbox and Other Accessories",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DcYyY4qGL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 27,
+                "global_position": 27
+            },
+            "asin": "B08KB1WW74",
+            "price": {
+                "discounted": false,
+                "current_price": 124.02,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 22253,
+                "rating": 4.8
+            },
+            "url": "https://www.amazon.sg/dp/B08KB1WW74",
+            "score": "106814.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Seagate Game Drive for Xbox Halo - Master Chief LE 2TB External Hard Drive Portable HDD - USB 3.2 Gen 1 Designed for Xbox ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61EHJZ8obtL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 28,
+                "global_position": 28
+            },
+            "asin": "B07MYWN3VD",
+            "price": {
+                "discounted": false,
+                "current_price": 107.26,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 103,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.sg/dp/B07MYWN3VD",
+            "score": "484.10",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Retear Gaming Backpack, Fashion Multifunction Outdoor Traveling Bag for Nintendo Switch System/PS4 Slim/Playstation 4/Xbox...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71KeW8LDpkL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 30,
+                "global_position": 30
+            },
+            "asin": "B07P8W3XBQ",
+            "price": {
+                "discounted": false,
+                "current_price": 315.15,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 5,
+                "rating": 3.7
+            },
+            "url": "https://www.amazon.sg/dp/B07P8W3XBQ",
+            "score": "18.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "BraZen BRAZEN-PRIDE-18063 Pride Gaming Chair-Red-Suitable for PC, Xbox, Nintendo, Playstation-2.1 Bluetooth with Surround ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/715nucFHYOL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 31,
+                "global_position": 31
+            },
+            "asin": "B083DVQX8D",
+            "price": {
+                "discounted": false,
+                "current_price": 12.06,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 63,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.sg/dp/B083DVQX8D",
+            "score": "283.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Deal4GO Metal Cross D-Pad Holder Directional Pad Arrow Button Replacement for Xbox One Controller Gears of War 4 Limited E...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71zj0cPgTaL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 32,
+                "global_position": 32
+            },
+            "asin": "B08K8W9WWH",
+            "price": {
+                "discounted": false,
+                "current_price": 29.5,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 3,
+                "rating": 5
+            },
+            "url": "https://www.amazon.sg/dp/B08K8W9WWH",
+            "score": "15.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Xbox One Controller Charger, arVin Dual Charging Charger Docking Station Stand With 2 X 800mAh Rechargeable Battery Pack &...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51dXYvOeOyL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 33,
+                "global_position": 33
+            },
+            "asin": "B08GZ2LBGX",
+            "price": {
+                "discounted": false,
+                "current_price": 20.1,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 21,
+                "rating": 3.6
+            },
+            "url": "https://www.amazon.sg/dp/B08GZ2LBGX",
+            "score": "75.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Mr Rex Headphone Cable with Microphone Boom 3.5mm Replacement Cord with Volume Control and Mute Switch Compatible with Pla...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61feoz8QTlL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 34,
+                "global_position": 34
+            },
+            "asin": "B07P9ZVZ33",
+            "price": {
+                "discounted": false,
+                "current_price": 390.16,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1,
+                "rating": 3
+            },
+            "url": "https://www.amazon.sg/dp/B07P9ZVZ33",
+            "score": "3.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "BraZen Pride 2.1 Bluetooth Surround Soun Gaming Chair-Blue-Suitable for PC, Xbox, Nintendo, Playstation Sound-Comfortable ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71+nZkSuLXL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 36,
+                "global_position": 36
+            },
+            "asin": "B08TQMXP3P",
+            "price": {
+                "discounted": false,
+                "current_price": 13.4,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 92,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.sg/dp/B08TQMXP3P",
+            "score": "432.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "16.4FT Charger Charging Cable for PS5 and Xbox Series X/S Controller/Switch Pro Controller, Replacement USB Charging Cord ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71u3HWpsAsL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 40,
+                "global_position": 40
+            },
+            "asin": "B07RJHH6Q8",
+            "price": {
+                "discounted": false,
+                "current_price": 268.18,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1,
+                "rating": 5
+            },
+            "url": "https://www.amazon.sg/dp/B07RJHH6Q8",
+            "score": "5.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "SteelSeries Arctis 9X Wireless Gaming Headset – Integrated Xbox Wireless + Bluetooth – 20+ Hour Battery Life – for Xbox One",
+            "thumbnail": "https://m.media-amazon.com/images/I/81t7C7EiagL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 41,
+                "global_position": 41
+            },
+            "asin": "B07R7JZKZY",
+            "price": {
+                "discounted": false,
+                "current_price": 76.15,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1610,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.sg/dp/B07R7JZKZY",
+            "score": "7406.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Upgrade Non-Slip Dog Pads Extra Large 72\" x 72\", Washable Puppy Pads with Fast Absorbent, Reusable, Waterproof for Trainin...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71HUj7pzdtL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 42,
+                "global_position": 42
+            },
+            "asin": "B08QHVX1FX",
+            "price": {
+                "discounted": false,
+                "current_price": 53.62,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 3,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.sg/dp/B08QHVX1FX",
+            "score": "13.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Xbox One Game Controller for Microsoft Xbox Wireless Controller Enhanced Game Controller One S/One X/Xbox One/One Elite/PC...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51FNIo2S8xL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 43,
+                "global_position": 43
+            },
+            "asin": "B01ETTRZ3M",
+            "price": {
+                "discounted": false,
+                "current_price": 93.75,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 46,
+                "rating": 3.9
+            },
+            "url": "https://www.amazon.sg/dp/B01ETTRZ3M",
+            "score": "179.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Simply Coding for Kids: Learn to Code Python Multiplayer Adventure Games - Video Game Design Coding Software - Computer Pr...",
+            "thumbnail": "https://m.media-amazon.com/images/I/81IxxxgLayL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 44,
+                "global_position": 44
+            },
+            "asin": "B07P5V78NV",
+            "price": {
+                "discounted": false,
+                "current_price": 23.99,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 20,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.sg/dp/B07P5V78NV",
+            "score": "90.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "K-AXIS 3x5 Foot Choose Your Weapon Video Game Flag: 100% Polyester Banner, Strong Canvas Header with 2 Brass Grommets, UV ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71+F66QmMAL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 46,
+                "global_position": 46
+            },
+            "asin": "B073X3ZJ5H",
+            "price": {
+                "discounted": false,
+                "current_price": 0,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 13,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.sg/dp/B073X3ZJ5H",
+            "score": "59.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PDP Wired Controller for Xbox One Blue Camo, Xbox One 048-082-NA-CM00",
+            "thumbnail": "https://m.media-amazon.com/images/I/713DTXcVSaL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 47,
+                "global_position": 47
+            },
+            "asin": "B07WRVK2D3",
+            "price": {
+                "discounted": false,
+                "current_price": 21.44,
+                "currency": "SGD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1,
+                "rating": 5
+            },
+            "url": "https://www.amazon.sg/dp/B07WRVK2D3",
+            "score": "5.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": true,
+            "amazonPrime": false,
+            "title": "Game Controller Desktop Stand Holder (2 Pack) for XBOX ONE 360 SWITCH PS4 STEAM PC NINTENDO, Universal Gamepad Accessories...",
+            "thumbnail": "https://m.media-amazon.com/images/I/81mKWjAiHNL._AC_UL320_.jpg"
+        }
+    ]
+}
