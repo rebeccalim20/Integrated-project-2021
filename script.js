@@ -6,6 +6,8 @@
 //   .then(response => response.json())
 //   .then(data => console.log(data));
 
+
+// fetch doc product details 
 document.getElementById('product-details').addEventListener
 function getProduct() {
   fetch('https://fakestoreapi.com/products')
