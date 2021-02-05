@@ -24,3 +24,12 @@ h1{
 .card {
   margin-top: 20px;
 }
+
+header{
+  background-color: rgb(126, 238, 238);
+}
+
+
+.topnav-right {
+  float: right;
+}
