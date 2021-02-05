@@ -16,14 +16,17 @@ function getProduct() {
       let output = '<h2>Recommended Items </h2>'
       console.log(data);
       data.forEach(function (product) {
-        output += `
-      <div class="card">
-      <div class="card-body">
-    Name: ${product.title}
-    <img src = " ${product.image}" alt="" width="200" height="260">
+        output += `    
+    <div class="card">
+    <img class="card-img-top" src = " ${product.image}" alt="">
+    <div class="card-body">
+    <div class="card-footer bg-transparent border-success">
+    <h5 class="card-title"> ${product.title}</h5>
+    <p class="text-center">$ ${product.price}</p>
     </div>
-    </div>`;
-
+    </div>
+    </div>
+    `;
 
 
       });
