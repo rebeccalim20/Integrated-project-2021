@@ -2,9 +2,9 @@
 //     console.log(json); 
 // });
 
-// fetch('https://fakestoreapi.com/products')
-//   .then(response => response.json())
-//   .then(data => console.log(data));
+fetch('https://fakestoreapi.com/products/1')
+  .then(res => res.json())
+  .then(json => console.log(json))
 
 
 // fetch doc product details 
@@ -13,7 +13,7 @@ function getProduct() {
   fetch('https://fakestoreapi.com/products')
     .then((response) => response.json())
     .then((data) => {
-      let output = '<h2>Recommended Items </h2>'
+      let output = ' '
       console.log(data);
       data.forEach(function (product) {
         output += `    
