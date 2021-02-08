@@ -32,7 +32,26 @@ header{
   background-color: rgb(126, 238, 238);
 }
 
-
 .topnav-right {
   float: right;
+}
+/* form control */
+input[type="text"],
+input.form-control {
+  background: transparent;
+  border: none;
+ 
+  border-bottom: 1px solid #000000;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+
+input[type="text"]:focus,
+input.form-control:focus {
+  -webkit-box-shadow: none;
+  outline: none;
+  box-shadow: none;
+  border-bottom: 1px solid #000000;
 }
