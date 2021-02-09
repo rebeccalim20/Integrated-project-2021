@@ -57,6 +57,8 @@ input.form-control:focus {
 }
 
 
+
+
 /* 
 profile page */
 
@@ -96,7 +98,7 @@ body > div {
   border: none;
   color: white;
   padding: 16px 32px;
-  width: 25%;
+  width: 100%;
   text-align: left;
   text-decoration: none;
   display: inline-block;
@@ -104,48 +106,32 @@ body > div {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-}
-
-.button1 {
-  background-color: #dfdfdf41; 
-  color: black; 
+  background-color: #dfdfdf41;
+  color: black;
   box-shadow: 6px 8px 7px rgba(126, 126, 126, 0.144);
-
 }
 
-.button1:hover {
+.button:hover {
   background-color: #c2c7c236;
   color: black;
 }
 
 /* log out button */
-.buttonn {
-  display: inline-block;
-  padding: 16px 32px;
-  font-size: 16px;
-  cursor: pointer;
+  .button1 {
   text-align: center;
   text-decoration: none;
-  outline: none;
-  color: rgb(0, 0, 0);
-  background-color: #dfdfdf41; 
-  border: none;
-  border-radius: 15px;
-  box-shadow: 2px 5px #f1f1f154;
-  width: 25%;
+  border-radius: 30px;
 }
 
+div{
+  padding-left:1px;
+  padding-top: 12px;
+}
   
-.buttonn:hover {background-color: #c2c7c236}
+.button:hover {background-color: #c2c7c236}
 
-.buttonn:active {
+.button1:active {
   background-color: #dfdfdf41; 
   box-shadow: 2px 5px #f1f1f154;
   transform: translateY(4px);
-}
-
-@media all and (max-width: 800px) {
-  .button1 {
-    width:70%;
-  }
 }
