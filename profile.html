@@ -2,149 +2,72 @@
 <html lang="en">
 
 <head>
-	<title>Profile Page</title>
-	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link href="style.css" rel="stylesheet" type="text/css" />
-    <!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
-    crossorigin="anonymous">
-
-    <style>
-
-    /* tell the container's children to float left: */
-.float-my-children > * {
-    float:left;
-    margin-right:5px;
-}
-
-/* this is called a clearfix. it makes sure that the container's children floats are cleared, without using extra markup */
-
-.clearfix {
-    *zoom:1 /* for IE */
-}
-
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-/* end clearfix*/
-
-/* below is just to make things easier to see, not required */
-body > div {
-    
-    margin-bottom:10px;    
-}
-
-/* button */
-.button {
-  background-color: #c6d3c7a1;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  width: 25%;
-  text-align: left;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-
-.button1 {
-  background-color: #dfdfdf41; 
-  color: black; 
-  border: 2px solid #ffffff;
-  box-shadow: 2px 5px #f1f1f154;
-}
-
-.button1:hover {
-  background-color: #c2c7c236;
-  color: black;
-}
-
-/* log out button */
-.buttonn {
-  display: inline-block;
-  padding: 16px 32px;
-  font-size: 16px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  color: rgb(0, 0, 0);
-  background-color: #dfdfdf41; 
-  border: none;
-  border-radius: 15px;
-  box-shadow: 2px 5px #f1f1f154;
-  width: 25%;
-}
-
-  
-.buttonn:hover {background-color: #c2c7c236}
-
-.buttonn:active {
-  background-color: #dfdfdf41; 
-  box-shadow: 2px 5px #f1f1f154;
-  transform: translateY(4px);
-}
-    </style>
-
-    <!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
-  crossorigin="anonymous">
+  <title>Profile Page</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 </head>
 
 
 <body>
-<h1>Profile Page</h1>
-</br>
-<div class="clearfix float-my-children">
-  <img src="img/face.png" width=150px>
-  <div></br>Name:</br>Birthday:</br>Total Points:</br>Total Spending:</div>
-</div>
 
-<button class="button button1">My Purchased ></button>
-</br>
-<button class="button button1">My Vouchers ></button>
-</br>
-<button class="button button1">Wishlist ></button>
-</br>
-<button class="button button1">Recently viewed ></button>
-</br>
-<button class="button button1">Account Setting ></button>
-</br>
-<button class="button button1">Help Centre ></button>
-</br>
-</br>
-</br>
-<button class="buttonn">Log out</button>
-</br>
-</br>
-</br>
-<!-- navbar -->
-<ul class="nav fixed-bottom nav-pills nav-justified">
-  <li class="nav-item">
-    <a href="home.html"><img src="img/home.png"  alt ="" style="width:50px; height:50px;"></a>	
-  </li>
-  <li class="nav-item">
-  <a href="#"><img src="img/activity.png"  alt ="" style="width:50px; height:50px;"></a>	
-  </li>
-  <li class="nav-item">
-    <a href="voucher.html"><img src="img/ticket.png"  alt ="" style="width:50px; height:50px;"></a>	
-  </li>
-  <li class="nav-item">
-  <a href="profile.html"><img src="img/person.jpg"  alt ="" style="width:50px; height:50px;"></a>	
-  </li>
-</ul>
+  <h1>Profile Page</h1>
+  </br>
+
+  <div class="d-flex justify-content-center">
+    
+      <img src="img/face.png" style ="width:150px;">
+      <div></br>Name:</br>Birthday:</br>Total Points:</br>Total Spending:</div>
+    </div>
+
+    <div class="d-flex justify-content-center">
+      <button type="button" class="button button1">My purchase</button>
+    </div>
+    <div class="d-flex justify-content-center">
+      <button class="button button1">My Vouchers > </button>
+    </div>
+    <div class="d-flex justify-content-center">
+      <button class="button button1">Wishlist  > </button>
+    </div>
+    <div class="d-flex justify-content-center">
+      <button class="button button1">Recently viewed >  </button>
+    </div>
+    <div class="d-flex justify-content-center">
+      <button class="button button1">Account Setting > </button>
+    </div>
+    <div class="d-flex justify-content-center">
+      <button class="button button1">Help Centre > </button>
+    </div>
+    <div class="d-flex justify-content-center">
+      <button class="button button1">Log out > </button>
+    </div>
+     
+
+
+
+
+
+  <!-- navbar -->
+  <ul class="nav fixed-bottom nav-pills nav-justified">
+    <li class="nav-item">
+      <a href="home.html"><img src="img/home.png" alt="" style="width:50px; height:50px;"></a>
+    </li>
+    <li class="nav-item">
+      <a href="#"><img src="img/activity.png" alt="" style="width:50px; height:50px;"></a>
+    </li>
+    <li class="nav-item">
+      <a href="voucher.html"><img src="img/ticket.png" alt="" style="width:50px; height:50px;"></a>
+    </li>
+    <li class="nav-item">
+      <a href="profile.html"><img src="img/person.jpg" alt="" style="width:50px; height:50px;"></a>
+    </li>
+  </ul>
+
+
 </body>
 
 </html>
