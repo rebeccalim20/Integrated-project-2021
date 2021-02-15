@@ -8,6 +8,7 @@
 
 
 // fetch doc product details 
+
 document.getElementById('product-details').addEventListener
 function getProduct() {
   fetch('https://fakestoreapi.com/products')
@@ -23,7 +24,7 @@ function getProduct() {
         <div class="card-footer bg-transparent border-success">
         <h5 class="card-title"> ${product.title}</h5>
         <p class="text-center">$ ${product.price}</p>
-        <a onclick="productselected('${product.id}')" class="btn btn-dark" href="#">Movie Details</a>
+        <a onclick="productselected('${product.id}')" class="btn btn-dark" href="#">Details</a>
 
 
         </div>
