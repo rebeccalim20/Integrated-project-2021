@@ -135,3 +135,9 @@ div{
   box-shadow: 2px 5px #f1f1f154;
   transform: translateY(4px);
 }
+
+.dropdown-menu {
+  
+  border: 0px solid rgba(0, 0, 0, 0) !important;
+  border-radius: 0rem !important;
+}

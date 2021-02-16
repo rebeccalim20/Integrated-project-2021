@@ -1,63 +1,7 @@
-// $.getJSON("index.json", function(json) {
-//     console.log(json); 
-// });
-
-// fetch('https://fakestoreapi.com/products/1')
-//   .then(res => res.json())
-//   .then(json => console.log(json))
-
-
-// fetch doc product details 
-// $(document).ready(() => {
-//     getProduct();
-   
-//     e.preventDefault();
-//   });
-
-// function getProduct() {
-//   fetch('https://fakestoreapi.com/products')
-//     .then((response) => response.json())
-//     .then((data) => {
-//       let output = ' '
-//       // console.log(data);
-      
-//       data.forEach(function (product) {
-//         output += `    
-//         <div class="card">
-//         <img class="card-img-top" src = " ${product.image}" alt="">
-//         <div class="card-body">
-//         <div class="card-footer bg-transparent border-success">
-//         <h5 class="card-title"> ${product.title}</h5>
-//         <p class="text-center">$ ${product.price}</p>
-//         <a onclick="productselected('${product.id}')" class="btn btn-dark" href="#">Details</a>
-
-
-//         </div>
-//         </div>
-//         </div>
-//         `;
-        
-//       });
-//       document.getElementById('product-details').innerHTML = output;
-//     })
-//   }
-  
-
-//   function productselected(id){
-//     sessionStorage.setItem('productId', id);
-//     window.location = 'product.html';
-//     return false;
-//   }
-
-//   document.getElementById('product-infos').addEventListener
-
-
-
-
+// homepage layout and product page layout for using get request
 $(document).ready(() => {
     getProducts();
 });
-
 
 function getProducts(){
  
@@ -74,8 +18,10 @@ function getProducts(){
         <div class="card-body">
         <div class="card-footer bg-transparent border-success">
         <h5 class="card-title"> ${products.title}</h5>
-        <p class="text-center">$ ${products.price}</p>
+        <p class="text-center">$ ${products.price}
+        <br>
         <a onclick="productselected('${products.id}')" class="btn btn-dark" href="#">Details</a>
+        </p>
 
         </div>
         </div>
@@ -105,18 +51,27 @@ function productinfos(){
       let product = response.data;
 
       let output =`
-      <div class="card">
       <img class="card-img-top" src = " ${product.image}" alt="">
-      <div class="card-body">
-      <div class="card-footer bg-transparent border-success">
       <h5 class="card-title"> ${product.title}</h5>
       <p class="text-center">$ ${product.price}</p>
-
+      <div class="btn-group">
+      <button class="btn btn-default btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Product descriptions
+      </button>
+      <div class="dropdown-menu">
+      <p class="text-center">${product.description}</p>
       </div>
       </div>
-      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
       `;
-
       $('#product-info').html(output);
     })
     .catch((err) => {
