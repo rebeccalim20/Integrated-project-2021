@@ -51,6 +51,10 @@ For any scenarios that have not been automated, test the user stories manually a
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears
     4. Try to submit the form with all inputs valid and verify that a success message appears.
 
+2.Different browsers and screen sizes:
+    1. The page layout manage to fit for all screen sizing and nicely 
+    2. Overall neat appearance and looks
+    
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
