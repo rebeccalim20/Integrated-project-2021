@@ -21,9 +21,7 @@ function getProducts() {
         <h5 class="card-title"> ${products.title}</h5>
         <p class="text-center">$ ${products.price}
         <br>
-
         </p>
-
         </div>
         </div>
         </div>

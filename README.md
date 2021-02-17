@@ -69,7 +69,6 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Content
 - bootstrap navigation :[navbar](https://getbootstrap.com/docs/4.0/components/navs/)
-- 
 
 
 ### Media
@@ -78,6 +77,10 @@ If this section grows too long, you may want to split it off into a separate fil
 - Fashion Looks from : [herworld](https://www.herworld.com/fashion/look-expensive-wardrobe-budget/)
 
 ### Acknowledgements
+
+- Inspired idea and layout for our website from
+  - [Shopee](https://shopee.sg/)
+  - [Ebay](https://www.ebay.com/)
 
 - I received inspiration and guidiance from Ms Dai and very thankful for her idea and tips to help this project works
 
