@@ -7,7 +7,7 @@ Interactive Media Application (ECCOMERCE shopping APP )
 
 The project is about the shopping app where user can browse through the app and view more and understand about fashion.
 
-Essentially, this part is your sales pitch.
+User will be able to browse through different feeds in regarding of fashion looks , skin care and technology
  
 ## Design Process
  
@@ -31,7 +31,7 @@ In this section, you should go over the different parts of your project, and des
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- Restdb for storing of the email and password user details when they logging in the page.
 
 ## Technologies Used
 
@@ -39,21 +39,25 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 - [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
     - The project uses **JQuery** to simplify DOM manipulation.
+- [FakeStoreApi](https://fakestoreapi.com/)
+    - Uses for the ecommerce product layout , product details 
+- [Axios](https://github.com/axios/axios)
+- [RestDB](https://restdb.io/)
+
 
 
 ## Testing
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+1. Product page:
+    1. Products able to link to another page for more details of the product with viewing of the descriptions
+    2. Dropdown doesnt looks and works properly when scrolls back up with a smaller screensizing
 
-2.Different browsers and screen sizes:
+2. Different browsers and screen sizes:
     1. The page layout manage to fit for all screen sizing and nicely 
     2. Overall neat appearance and looks
+    3. Layout still doesnt seems to looks good on some screen sizes 
     
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
@@ -64,12 +68,14 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Credits
 
 ### Content
--  [icons8](https://icons8.com/)
-
+- bootstrap navigation :[navbar](https://getbootstrap.com/docs/4.0/components/navs/)
+- 
 
 
 ### Media
-- The photos used in this site were obtained from ...
+- Image icons from : [icons8](https://icons8.com/)
+- Image from : [stockimage](https://unsplash.com/)
+- Fashion Looks from : [herworld](https://www.herworld.com/fashion/look-expensive-wardrobe-budget/)
 
 ### Acknowledgements
 
