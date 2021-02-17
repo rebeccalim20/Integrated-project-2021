@@ -118,10 +118,7 @@ body > div {
   border-radius: 30px;
 }
 
-div{
-  padding-left: 1px;
-  padding-top: 12px;
-}
+
   
 .button:hover {background-color: #c2c7c236}
 
@@ -185,4 +182,14 @@ algining button */
   -ms-flex-positive: 1;
   flex-grow: 1;
   text-align: center;
+}
+
+/* 
+voucher page layout */
+.btn-secondary {
+  color: #000 !important;
+  background-color: #80deea !important;
+  border-color: #80DEEA !important;
+  box-shadow: 6px 5px 7px rgba(126, 126, 126, 0.144);
+
 }
