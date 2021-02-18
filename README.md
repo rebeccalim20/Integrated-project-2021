@@ -5,11 +5,13 @@ Interactive Media Application (ECCOMERCE shopping APP )
 
 # SHOOP
 
-The project is about the shopping app where user can browse through the app and view more and understand about fashion.
+The project is about the shopping app where user can browse through the app and view more and understand about fashion, tech and beauty.
 
-User will be able to browse through different feeds in regarding of fashion looks , skin care and technology
+User will be able to browse through different feeds in regarding of fashion looks , skin care and technology, this will keep them updated on the latest trending products.
  
 ## Design Process
+
+This application is mainly designed for anyone who enjoyed shopping online. Using our application will allow users to purchase items with best discounted price while using vouchers. Also, we have a section where we share tips about fashion, tech and beauty.
  
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
