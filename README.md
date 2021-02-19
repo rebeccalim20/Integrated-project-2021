@@ -1,6 +1,8 @@
 # Integrated-project-2021
 Interactive Media Application (ECCOMERCE shopping APP )
 
+# Website Link
+https://rebeccalim20.github.io/Integrated-project-2021/
 
 
 # SHOOP
@@ -11,7 +13,7 @@ User will be able to browse through different feeds in regarding of fashion look
  
 ## Design Process
 
-This application is mainly designed for anyone who enjoyed shopping online. Using our application will allow users to browse through different products from fashion, tech gadgets or skin care. With using our application, users  who make purchases will get the best discounted price while using vouchers. Also, we have a section where we share tips about fashion, tech and beauty.
+This application is mainly designed for anyone who enjoyed shopping online. Using our application will allow users to browse through different products from fashion, tech gadgets or skin care. With using our application, users  who make purchases will get the best discounted price while using vouchers. Also, we have a section where we share tips about fashion, technology and beauty.
  
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
@@ -31,7 +33,7 @@ In this section, you should go over the different parts of your project, and des
  
 ### Existing Features
 - Feature 1 - API is implemented on the homepage where users will be able to browse through product on the homepage and when they click on it, they will be able to view the product description/details.
-- Feature 2 - The activity tab allowed users to understand mores tips on fashion, technology and beauty.
+- Feature 2 - The activity tab allowed users to understand more tips on fashion, technology and beauty.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
