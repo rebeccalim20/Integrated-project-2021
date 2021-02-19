@@ -23,7 +23,7 @@ These files should themselves either be included as a pdf file in the project it
 Include the Adobe XD wireframe as a folder. You can include the XD share url. 
 
 - This is the layout we did for Applied Design module and we are using it on our application.
-- This is the link: 
+- This is the link: https://xd.adobe.com/view/b56d1f56-0f04-47ec-90dd-f36de04d8396-e03e/
 
 ## Features
 
@@ -37,8 +37,6 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 - Restdb for storing of the email and password user details when they logging in the page.
-- Making the checkout works 
-- Saving user data
 
 ## Technologies Used
 
@@ -65,7 +63,6 @@ For any scenarios that have not been automated, test the user stories manually a
     1. The page layout manage to fit for all screen sizing and nicely 
     2. Overall neat appearance and looks
     3. Layout still doesnt seems to looks good on some screen sizes 
-    4. The height of the layout may affect the view of some layout 
     
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
@@ -77,11 +74,10 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Content
 - bootstrap navigation :[navbar](https://getbootstrap.com/docs/4.0/components/navs/)
-- search bar from : [bootstrap snipp](https://bootsnipp.com/snippets/35V6b)
+
 
 ### Media
 - Image icons from : [icons8](https://icons8.com/)
-- Image icons from : [Fontawesome](https://fontawesome.com/)
 - Image from : [stockimage](https://unsplash.com/)
 - Fashion Looks from : [herworld](https://www.herworld.com/fashion/look-expensive-wardrobe-budget/)
 
