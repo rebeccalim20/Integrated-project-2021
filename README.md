@@ -5,22 +5,25 @@ Interactive Media Application (ECCOMERCE shopping APP )
 
 # SHOOP
 
-The project is about the shopping app where user can browse through the app and view more and understand about fashion, tech and beauty.
+The project is about a shopping app where user can browse through the app and view more and understand about fashion, tech and beauty.
 
 User will be able to browse through different feeds in regarding of fashion looks , skin care and technology, this will keep them updated on the latest trending products.
  
 ## Design Process
 
-This application is mainly designed for anyone who enjoyed shopping online. Using our application will allow users to purchase items with best discounted price while using vouchers. Also, we have a section where we share tips about fashion, tech and beauty.
+This application is mainly designed for anyone who enjoyed shopping online. Using our application will allow users to browse through different products from fashion, tech gadgets or skin care. With using our application, users  who make purchases will get the best discounted price while using vouchers. Also, we have a section where we share tips about fashion, tech and beauty.
  
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+
+- As a online shopping lover, I would like to view the tips about fashion and i will be able to do it by clicking the feeds tab and i will be able to view the tips on fashion, tech and even beauty skin care.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
 These files should themselves either be included as a pdf file in the project itself (in an separate directory)
 Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+
+- This is the layout we did for Applied Design module and we are using it on our application.
+- This is the link: 
 
 ## Features
 
